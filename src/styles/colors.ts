@@ -1,0 +1,36 @@
+const enum Colors {
+  White = "#fff",
+  RedesignButtonTextDisabled = "rgba(133,133,133,1)",
+
+  RedesignGray = "rgba(81, 81, 81, 1)",
+  RedesignDarkGray = "rgba(48, 48, 48, 1)",
+  RedesignLightGray = "rgba(117, 117, 117, 1)",
+  RedesignLighterGray = "rgba(168, 168, 168, 1)",
+  RedesignModalBorder = RedesignGray,
+  RedesignLightBorder = "rgba(81, 81, 81, 1)",
+
+  RedesignPrimary = "rgba(233, 191, 120, 1)",
+  RedesignSecondary = "rgba(244, 223, 187, 1)",
+  RedesignPurple = "rgba(115, 88, 246, 1)",
+  RedesignGrayBorder = "rgba(69, 69, 69, 1)",
+  RedesignLightGrayBorder = "rgba(168, 168, 168, 1)",
+  RedesignSuccess = "rgba(40, 167, 69, 1)",
+  RedesignSuccess_2 = "rgba(59, 124, 14, 1)",
+  RedesignCodeBackground = "rgba(48, 48, 48, 1)",
+  RedesignContentCardBorder = "rgba(31, 31, 31, 1)",
+  RedesignContentCardBorderLight = "rgba(31, 31, 31, .8)",
+  RedesignBackground = "rgba(37, 37, 37, 1)",
+  RedesignLightBackground = "rgba(41, 41, 41, 1)",
+  RedesignFontTernary = "rgba(131, 131, 131, 1)",
+  RedesignFontSecondary = "rgba(214, 214, 214, 1)",
+  RedesignFontPrimary = "rgba(233, 233, 233, 1)",
+  RedesignFontDarkGray = "rgba(96, 96, 96, 1)",
+  RedesignFontDark = "rgba(16, 18, 19, 1)",
+  RedesignLightBackgroundBorder = "rgba(59, 59, 59, 1)",
+  RedesignLineNumberBackground = "rgba(41, 41, 41, 1)",
+  RedesignShadowColor = "rgba(0, 0, 0, 0.25)",
+  RedesignItemHover = "rgb(56, 56, 56)",
+  RedesignFontQuaternary = "rgba(146, 146, 146, 1)",
+}
+
+export default Colors;

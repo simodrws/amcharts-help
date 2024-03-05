@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "data": [
+    {
+      "country": "Russia",
+      "count": 8
+    },
+    {
+      "country": "Ukraine",
+      "count": 6
+    },
+    {
+      "country": "Nigeria",
+      "count": 4
+    },
+    {
+      "country": "Germany",
+      "count": 4
+    },
+    {
+      "country": "Bangladesh",
+      "count": 3
+    }
+  ],
+  "totalCount": 25
+}
